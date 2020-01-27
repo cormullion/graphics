@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1772 532" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(7.83766,0,0,7.83766,-2691.11,-3441.17)">
+        <text x="350.681px" y="490.004px" style="font-family:'TerminalDosis-Regular', 'Terminal Dosis';font-size:50px;fill:rgb(213,79,58);">N<tspan x="375.581px 400.131px " y="490.004px 490.004px ">UM</tspan></text>
+    </g>
+    <g transform="matrix(4.04266,0,0,7.83766,-730.354,-3441.17)">
+        <g transform="matrix(1.93874,0,0,1,-329.198,0)">
+            <text x="350.681px" y="489.854px" style="font-family:'TerminalDosis-Medium', 'Terminal Dosis';font-weight:500;font-size:50px;fill:rgb(19,124,137);">F</text>
+        </g>
+        <g transform="matrix(1.93874,0,0,1,-436.303,0)">
+            <text x="464.775px" y="489.854px" style="font-family:'TerminalDosis-Medium', 'Terminal Dosis';font-weight:500;font-size:50px;fill:rgb(19,124,137);">C<tspan x="489.325px " y="489.854px ">U</tspan></text>
+        </g>
+        <g transform="matrix(1.93874,0,0,1,-529.485,0)">
+            <text x="564.039px" y="489.854px" style="font-family:'TerminalDosis-Medium', 'Terminal Dosis';font-weight:500;font-size:50px;fill:rgb(19,124,137);">S</text>
+        </g>
+    </g>
+    <g transform="matrix(0.4995,0,0,0.4995,89.6367,-291.333)">
+        <circle cx="1831.13" cy="1089.2" r="273.535" style="fill:none;stroke:rgb(19,124,137);stroke-width:50.05px;"/>
+    </g>
+    <g transform="matrix(0.563336,0,0,0.556025,-94.9737,-79.463)">
+        <text x="1802.6px" y="728.205px" style="font-family:'TerminalDosis-SemiBold', 'Terminal Dosis';font-weight:600;font-size:355.67px;fill:rgb(213,79,58);">[ ]</text>
+    </g>
+</svg>
