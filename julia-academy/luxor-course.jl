@@ -26,7 +26,7 @@ circle(Point(0, 0), 100, :fill)
 finish()
 preview()
 
-# is short piece of code does the following things:
+# This short piece of code does the following things:
 
 # - Makes a new drawing 500 units square, and saves it in "my-drawing.png" in PNG format.
 
@@ -175,12 +175,14 @@ main("my-drawing.svg")
 
 # Circles, lines, arcs, and polygons are the fundamental particles of Luxor. One way to explore some of the features is to use the interactive abilities of a Jupyter notebook.
 
-# You'll need to add the Interact.jl package if you haven't already done so:
+# You'll need to add the Interact.jl and WebIO.jl packages if you haven't already done so:
 
 # using Pkg
 
 # Pkg.add("Interact")
+# Pkg.add("WebIO")
 
+using WebIO
 import Interact: @manipulate
 
 # Interact.jl has a `@manipulate()` macro that provides a slider. This feeds a changing numeric value into the Luxor code that's generating the image. Because we don't want to generate thousands of images for the slider positions, we'll use the in-memory (file-less) version of the `Drawing()` function with the `:svg` option, assign the drawing to `d`, and then return `d` as the result. (You must run this in Jupyter, not Atom/Juno or VS Code.)
@@ -504,7 +506,7 @@ testall()
 
 # You can make art with anything - these days you might not even need a pencil. Luxor has plenty of tools to help you make some art. The phrase "generative art" suggests that the computer code does most of the work generating the image; perhaps the presence of your guiding hand justifies you claiming to be co-creator.
 
-# You need only have a basic idea to get started. If it doesn't go anywhere, then you just start over. The idea for this chapter is based on a random walk: you place a simple linei and circle ("blob") graphic next to other ones, and use randomness to see what emerges.
+# You need only have a basic idea to get started. If it doesn't go anywhere, then you just start over. The idea for this chapter is based on a random walk: you place a simple line and circle ("blob") graphic next to other ones, and use randomness to see what emerges.
 
 using Colors
 
@@ -538,19 +540,6 @@ function mutate(blob::Blob)
 end
 
 # The `draw()` function draws the blob, and adds new mutated blobs, but only if they're still on the drawing.
-
-function draw(blob::Blob, todolist)
-   move(blob.st)
-   line(blob.fi)
-   setline(4)
-   sethue(blob.col)
-   strokepath()
-   circle(blob.fi, blob.radius, :fill)
-   ## add new blobs if they're on the drawing
-   if isinside(blob.fi, BoundingBox())
-      push!(todolist, mutate(blob))
-   end
-end
 
 function draw(blob::Blob, todolist)
     move(blob.st)
