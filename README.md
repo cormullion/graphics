@@ -1,3 +1,5 @@
+![warning](https://github.com/cormullion/graphics/blob/master/misc/warninganimation.gif)
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
