@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 208 208" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(0.793821,0,0,0.793821,-13.4625,-152.257)">
+        <g transform="matrix(0.725441,0,0,0.725441,40.5219,88.5269)">
+            <circle cx="147.589" cy="322.433" r="173.65" style="fill:#fff;stroke:#fff;stroke-width:1.74px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-651.009,0)">
+            <path d="M744.691,270.079L790.525,323.871L747.009,374.276L720.414,374.276L720.414,390.262L768.672,390.262L768.672,374.276L760.341,374.276L797.191,332.068L834.04,374.276L827.931,374.276L827.931,390.262L876.189,390.262L876.189,374.276L852.622,374.276L806.481,320.643L849.69,270.079L876.939,270.079L876.939,254.63L828.681,254.63L828.681,270.079L836.358,270.079L799.816,312.446L763.273,270.079L767.922,270.079L767.922,254.63L719.664,254.63L719.664,270.079L744.691,270.079Z" style="fill:#f3b932;stroke:#000;stroke-width:2.52px;"/>
+        </g>
+        <g transform="matrix(1.32203,0,0,1.32203,-50.3514,-112.899)">
+            <circle cx="149.986" cy="255.734" r="18.91" style="fill:#389725;stroke:#000;stroke-width:2.38px;"/>
+        </g>
+        <g transform="matrix(1.32203,0,0,1.32203,-49.4629,79.4677)">
+            <circle cx="149.986" cy="255.734" r="18.91" style="fill:#4062d7;stroke:#000;stroke-width:2.38px;"/>
+        </g>
+        <g transform="matrix(1.32203,0,0,1.32203,-136.669,-15.6556)">
+            <circle cx="149.986" cy="255.734" r="18.91" style="fill:#ca3b33;stroke:#000;stroke-width:2.38px;"/>
+        </g>
+        <g transform="matrix(1.32203,0,0,1.32203,35.4666,-15.6556)">
+            <circle cx="149.986" cy="255.734" r="18.91" style="fill:#9457b1;stroke:#000;stroke-width:2.38px;"/>
+        </g>
+    </g>
+</svg>
