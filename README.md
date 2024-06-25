@@ -1,4 +1,6 @@
-![warning](https://github.com/cormullion/graphics/blob/master/misc/warninganimation.gif)
+The graphics in this repo are unofficial.
+
+For "official" Julia logo graphics, see [github.com/JuliaLang/julia-logo-graphics/](https://github.com/JuliaLang/julia-logo-graphics/)
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
