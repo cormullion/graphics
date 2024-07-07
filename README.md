@@ -1,11 +1,13 @@
-The graphics in this repo are unofficial.
+Everything in this repo is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+All graphics in this repo are unofficial, with no official recognition claimed.
 
 For "official" Julia logo graphics, see [github.com/JuliaLang/julia-logo-graphics/](https://github.com/JuliaLang/julia-logo-graphics/)
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
+<img src="misc/ai-free.svg" width="200" >
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
