@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 230 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <path d="M3.485,18.008l15.98,0l0,44.78l18.04,0l0,-44.78l15.89,0l0,-16.05l-49.91,0l0,16.05Z" style="fill:white;fill-rule:nonzero;"/>
+    <path d="M82.635,41.038l-11.96,-0l5.98,-19.68l5.98,19.68Zm-17.61,-39.08l-21.96,60.84l20.44,-0l2.15,-7.12l21.43,-0l2.15,7.12l20.45,-0l-21.99,-60.84l-22.67,-0Z" style="fill:white;fill-rule:nonzero;"/>
+    <path d="M130.955,46.738l22.59,0l-0.01,16.05l-40.62,0l-0,-60.83l18.04,0l-0,44.78Z" style="fill:white;fill-rule:nonzero;"/>
+    <path d="M19.515,128.038l-0.05,-45.38l-15.98,-0l0,-16.06l49.91,-0l-0,16.06l-15.89,-0l0.01,45.38l-18,0Z" style="fill:white;fill-rule:nonzero;"/>
+    <path d="M57.515,128.038l0.03,-61.44l45.18,-0l0,16.06l-27.14,-0l0,6.01l26.52,-0l0,16.06l-26.52,-0l0,6.66l27.14,-0l0,16.65l-45.21,0Z" style="fill:white;fill-rule:nonzero;"/>
+    <path d="M126.515,128.038c-6.14,-2.14 -11.327,-6.298 -14.98,-11.712c-3.652,-5.415 -5.77,-12.088 -5.77,-19.258c-0.295,-17.235 11.84,-27.975 25.459,-30.759c13.619,-2.783 28.721,2.389 34.361,16.979l-15.54,7.38c-2.84,-7.65 -9.435,-9.932 -15.27,-8.361c-5.835,1.571 -10.91,6.996 -10.71,14.761c-0.2,7.765 4.875,13.185 10.71,14.751c5.835,1.566 12.43,-0.721 15.27,-8.371l15.54,7.29c-1.255,2.935 -3.675,6.445 -6.83,9.627c-3.155,3.183 -7.045,6.038 -11.24,7.663l-21,0.01Z" style="fill:white;fill-rule:nonzero;"/>
+    <path d="M187.135,105.168l21.35,-0l-0.09,22.871l18.12,-0.001l0,-61.45l-18.4,-0l0,21.52l-21.34,0l0,-21.52l-18.04,-0l-0.22,61.454c23.011,-0.002 18.62,-0.002 18.62,-0.002l0,-22.872Z" style="fill:white;fill-rule:nonzero;"/>
+</svg>
